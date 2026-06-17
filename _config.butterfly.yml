@@ -69,9 +69,14 @@ search:
   field: post
   content: true
 
-# 评论系统（暂未配置）
+# 评论系统（utterances - 基于 GitHub Issues）
 comments:
-  enable: false
+  use: utterances
+  utterances:
+    repo: aijvs/aijvs-blog
+    issue_term: pathname
+    theme: github-light
+  lazyload: true
 
 # 页脚
 footer:
