@@ -69,18 +69,26 @@ search:
   field: post
   content: true
 
-# 评论系统（utterances - 基于 GitHub Issues）
+# 评论系统（giscus - 基于 GitHub Discussions，中文界面）
 comments:
-  use: Utterances
+  use: Giscus
   text: true
   lazyload: true
   count: false
 
-# utterances 配置
-utterances:
+# giscus 配置
+giscus:
   repo: aijvs/aijvs-blog
-  issue_term: pathname
-  theme: github-light
+  repo_id: R_kgDOS83Juw
+  category: General
+  category_id: DIC_kwDOS83Ju84C_Uc_
+  mapping: pathname
+  strict: 0
+  reactions_enabled: 1
+  emit_metadata: 0
+  input_position: bottom
+  theme: preferred_color_scheme
+  lang: zh-CN
 
 # 页脚
 footer:
