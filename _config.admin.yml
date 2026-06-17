@@ -1,0 +1,6 @@
+# Hexo Admin 配置
+admin:
+  username: admin
+  password_hash: $2a$10$JLpY7FqZKvNn5XqQ8u9H5OZKjJ5XqQ8u9H5OZKjJ5XqQ8u9H5O  # 默认密码：admin123
+  secret: aijvs_blog_secret_key_2026
+  deployCommand: hexo generate
