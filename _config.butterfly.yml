@@ -1,0 +1,75 @@
+# Butterfly 主题配置
+
+# 导航菜单
+menu:
+  首页: / || fas fa-home
+  分类: /categories/ || fas fa-folder-open
+  标签: /tags/ || fas fa-tags
+  归档: /archives/ || fas fa-archive
+  关于: /about/ || fas fa-heart
+
+# 网站图标
+favicon: /img/favicon.png
+
+# 代码高亮主题
+highlight_theme: mac
+
+# 代码复制按钮
+code_copy:
+  enable: true
+
+# 社交链接
+social:
+  fab fa-github: https://github.com/aijvs || Github
+  fas fa-envelope: mailto:aijvscom@gmail.com || Email
+
+# 头像
+avatar:
+  img: /img/aijvs-logo.png
+  effect: false
+
+# 站点描述
+site:
+  name: AIJVS
+  link: https://aijvs.com
+
+# 首页文章配置
+index_post_content:
+  method: 3
+  length: 500
+
+# 页面美化
+beautify:
+  enable: true
+  field: post
+  title-prefix-icon: '\f0c1'
+  title-prefix-icon-color: '#F47456'
+
+# 深色模式
+darkmode:
+  enable: true
+  button: true
+  autoChangeMode: time
+
+# 搜索
+search:
+  enable: true
+  path: search.xml
+  field: post
+  content: true
+
+# 评论系统（暂未配置）
+comments:
+  enable: false
+
+# 页脚
+footer:
+  owner:
+    enable: true
+    since: 2026
+  custom_text: AIJVS - 让每个人都参与到 AI 学习中来！
+  copyright: CC BY-NC-SA 4.0
+
+# CDN
+CDN:
+  option: jsdelivr
