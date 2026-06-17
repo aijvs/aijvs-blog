@@ -28,19 +28,20 @@ avatar:
   img: /img/aijvs-logo.svg
   effect: false
 
-# 侧边栏卡片
-card_author:
-  enable: true
-  description: AIJVS - 免费开源的深度学习和 AI 学习平台
-  button:
+# 侧边栏卡片（必须在 aside: 键下）
+aside:
+  card_author:
     enable: true
-    icon: fab fa-github
-    text: Follow Me
-    link: https://github.com/aijvs
+    description: AIJVS - 免费开源的深度学习和 AI 学习平台
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Follow Me
+      link: https://github.com/aijvs
 
-card_announcement:
-  enable: true
-  content: 欢迎来到 AIJVS！免费开源的深度学习和 AI 学习平台 🚀
+  card_announcement:
+    enable: true
+    content: 欢迎来到 AIJVS！免费开源的深度学习和 AI 学习平台 🚀
 
 # 首页文章配置
 index_post_content:
