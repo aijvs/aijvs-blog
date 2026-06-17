@@ -9,7 +9,7 @@ menu:
   关于: /about/ || fas fa-heart
 
 # 网站图标
-favicon: /img/favicon.png
+favicon: /img/favicon.svg
 
 # 代码高亮主题
 highlight_theme: mac
@@ -25,7 +25,7 @@ social:
 
 # 头像
 avatar:
-  img: /img/aijvs-logo.png
+  img: /img/aijvs-logo.svg
   effect: false
 
 # 侧边栏卡片

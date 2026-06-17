@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" rx="30" fill="#2563eb"/>
+  <text x="100" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-weight="bold" font-size="50" fill="white">AIJVS</text>
+  <text x="100" y="140" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="#93c5fd">深度学习 · AI学习</text>
+</svg>
