@@ -82,13 +82,15 @@ giscus:
   repo_id: R_kgDOS83Juw
   category: General
   category_id: DIC_kwDOS83Ju84C_Uc_
-  mapping: pathname
-  strict: 0
-  reactions_enabled: 1
-  emit_metadata: 0
-  input_position: bottom
-  theme: preferred_color_scheme
-  lang: zh-CN
+  light_theme: light
+  dark_theme: dark
+  option:
+    data-lang: zh-CN
+    data-mapping: pathname
+    data-strict: "0"
+    data-reactions-enabled: "1"
+    data-emit-metadata: "0"
+    data-input-position: bottom
 
 # 页脚
 footer:
