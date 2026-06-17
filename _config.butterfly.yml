@@ -25,7 +25,7 @@ social:
 
 # 头像
 avatar:
-  img: /img/butterfly-icon.png
+  img: /img/friend_404.gif
   effect: false
 
 # 侧边栏卡片（必须在 aside: 键下）
