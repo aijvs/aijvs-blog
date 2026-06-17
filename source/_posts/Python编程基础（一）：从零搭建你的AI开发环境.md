@@ -215,9 +215,6 @@ A：先确认在Anaconda Prompt里输入的命令没错（是 `jupyter notebook`
 
 你现在已经过了这一步了。给自己鼓个掌吧。
 
----
-
-📚 **学习路径推荐：**
 
 [📖 下一篇：《Python编程基础（二）：变量、数据类型和基本运算》](/2026/06/17/Python%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%8F%98%E9%87%8F%E3%80%81%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%9F%BA%E6%9C%AC%E8%BF%90%E7%AE%97/)
 
