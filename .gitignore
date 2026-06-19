@@ -9,3 +9,6 @@ _multiconfig.yml
 _config.landscape.yml
 package-lock.json
 _scripts/
+
+# SOP - keep locally, do not publish to public repo
+SOP_CONTENT_WORKFLOW.md
