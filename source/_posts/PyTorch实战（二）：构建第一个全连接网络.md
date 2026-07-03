@@ -1,15 +1,8 @@
----
+﻿---
 title: PyTorch 实战（二）：构建第一个全连接网络
 date: 2026-07-03 12:00:00
-categories:
-  - 深度学习
-tags:
-  - PyTorch
-  - 深度学习
-  - 基础教程
-  - 神经网络
-  - MNIST
-cover: /img/posts/fc-network-cover.png
+categories: [深度学习]
+tags: [PyTorch, 深度学习, 神经网络, MNIST, 实战教程]
 description: 从零实现 PyTorch 全连接网络：Dataset、DataLoader、nn.Module、训练循环、评估，全部代码可运行。
 ---
 

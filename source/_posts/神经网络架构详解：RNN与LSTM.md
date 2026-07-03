@@ -1,16 +1,8 @@
----
+﻿---
 title: 神经网络架构详解：RNN 与 LSTM
 date: 2026-07-03 15:00:00
-categories:
-  - 深度学习
-tags:
-  - RNN
-  - LSTM
-  - 序列模型
-  - 进阶教程
-  - 自然语言处理
-  - PyTorch
-cover: /img/posts/rnn-lstm-cover.png
+categories: [深度学习]
+tags: [RNN, LSTM, 序列模型, 进阶教程, 自然语言处理]
 description: RNN 循环神经网络与 LSTM 长短期记忆网络的完整教程：原理、梯度消失、门控机制与 PyTorch 情感分析实战。
 ---
 

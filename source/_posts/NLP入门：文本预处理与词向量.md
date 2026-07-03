@@ -1,15 +1,8 @@
----
+﻿---
 title: NLP 入门：文本预处理与词向量
 date: 2026-07-03 17:00:00
-categories:
-  - 自然语言处理
-tags:
-  - NLP
-  - 自然语言处理
-  - 词向量
-  - Word2Vec
-  - 基础教程
-cover: /img/posts/nlp-intro-cover.png
+categories: [自然语言处理]
+tags: [NLP, 自然语言处理, 词向量, Word2Vec, 入门教程]
 description: NLP 自然语言处理入门教程：分词、词干提取、TF-IDF、Word2Vec 与预训练词向量的完整讲解。
 ---
 

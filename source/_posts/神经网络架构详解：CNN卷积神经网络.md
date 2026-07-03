@@ -1,15 +1,8 @@
----
+﻿---
 title: 神经网络架构详解：CNN 卷积神经网络
 date: 2026-07-03 14:00:00
-categories:
-  - 深度学习
-tags:
-  - CNN
-  - 卷积神经网络
-  - 进阶教程
-  - 计算机视觉
-  - PyTorch
-cover: /img/posts/cnn-cover.png
+categories: [深度学习]
+tags: [CNN, 卷积神经网络, 进阶教程, 计算机视觉, PyTorch]
 description: CNN 卷积神经网络完整教程：卷积层、池化层、感受野的原理与 PyTorch 实现，附 CIFAR-10 分类实战。
 ---
 

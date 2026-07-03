@@ -1,15 +1,8 @@
----
+﻿---
 title: PyTorch 实战（一）：张量操作与自动微分
 date: 2026-07-03 11:00:00
-categories:
-  - 深度学习
-tags:
-  - PyTorch
-  - 深度学习
-  - 基础教程
-  - 张量
-  - 自动微分
-cover: /img/posts/pytorch-tensor-cover.png
+categories: [深度学习]
+tags: [PyTorch, 深度学习, 基础教程, 张量, 自动微分]
 description: PyTorch 的核心基础：张量创建、索引运算、GPU加速，以及自动求导机制的完整讲解与实战。
 ---
 
