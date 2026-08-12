@@ -105,3 +105,9 @@ footer:
 # CDN
 CDN:
   option: jsdelivr
+
+# 自定义注入（SEO 结构化数据 + llms.txt 声明）
+inject:
+  head:
+    - <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"AIJVS","alternateName":"AIJVS - 帮你把AI用起来","url":"https://aijvs.com","description":"追踪AGI新应用，探寻AI真善美！提供AI工具评测、应用教程、双周速递、深度学习课程，帮助你把AI真正用起来。","inLanguage":"zh-CN","potentialAction":{"@type":"SearchAction","target":"https://aijvs.com/search?q={search_term_string}","query-input":"required name=search_term_string"}}</script>
+    - <link rel="alternate" type="application/rss+xml" title="AIJVS" href="/atom.xml">
