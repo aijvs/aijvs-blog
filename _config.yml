@@ -79,6 +79,7 @@ pagination_dir: page
 
 # Include / Exclude file(s)
 include:
+  - _redirects
 exclude:
 ignore:
 
