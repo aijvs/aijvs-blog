@@ -1,0 +1,53 @@
+# AIJVS
+
+> 追踪 AGI 新应用，探寻 AI 真善美！帮助你把 AI 真正用起来。
+
+AIJVS 是一个面向中文用户的 AI 应用指南网站。我们提供：AI 工具评测、AI 应用教程、AI 双周速递（前沿动态）、深度学习与机器学习系统课程（P0-P3）、AI 工具导航。
+
+## 核心内容
+
+- [AI 双周速递（前沿 AI 动态速览）](https://aijvs.com/tags/AI速递/)
+- [AI 工具评测（TRAE / 通义灵码 / CodeGeeX / Cursor 对比等）](https://aijvs.com/tags/评测/)
+- [国产大模型横评（DeepSeek / Kimi / Qwen / GLM）](https://aijvs.com/2026/08/06/国产大模型横评：DeepSeek Kimi Qwen GLM 谁更值得用？/)
+- [深度学习系统课程（从 Python 基础到 Transformer）](https://aijvs.com/course/)
+- [WebGPU 实战：在浏览器里跑大模型](https://aijvs.com/2026/08/06/WebGPU实战：在浏览器里跑大模型（零成本本地推理）/)
+- [AI 编程助手横评 2026](https://aijvs.com/2026/08/12/中文 AI 编程助手横评：TRAE 通义灵码 CodeGeeX Cursor 该选哪个？/)
+
+## 关键页面
+
+- [课程中心](https://aijvs.com/course/)
+- [AI 资讯站（每日热点）](https://news.aijvs.com)
+- [AI 导航站（366+ 精选网站）](https://nav.aijvs.com)
+- [关于我们](https://aijvs.com/about/)
+
+## 内容索引
+
+### 前沿追踪
+- AI 双周速递·第二期：Qwen3.8-Max 开源炸场，字节 SeedRealtime 边看边聊（2026-08-12）
+- AI 双周速递·创刊号：Kimi K3 登顶全球开源王座（2026-08-06）
+- 顶会论文解读：ICML 2026 三大趋势与港大 CaRE 持续学习（2026-08-06）
+
+### 工具评测
+- 中文 AI 编程助手横评：TRAE / 通义灵码 / CodeGeeX / Cursor 该选哪个？（2026-08-12）
+- 国产大模型横评：DeepSeek / Kimi / Qwen / GLM 谁更值得用？（2026-08-06）
+- PyTorch vs TensorFlow：2026 年该选哪个框架？
+
+### 系统课程（P0-P3）
+- Python 编程基础（一）~（三）
+- AI 数学基础（一）~（三）
+- 机器学习入门：概念与分类全解
+- 深度学习入门指南：从零开始理解神经网络
+- 神经网络架构详解：CNN / RNN 与 LSTM
+- 计算机视觉入门：图像处理基础
+- NLP 入门：文本预处理与词向量
+- Transformer 深度解读：从注意力机制到现代大模型的基石
+- 大语言模型（LLM）原理：从训练到推理的完整流程
+- WebGPU 实战：在浏览器里跑大模型
+- 实战：手写数字识别（MNIST）/ 图像分类（CIFAR-10）/ 情感分析系统 / 目标检测（YOLOv8）
+- Kaggle 竞赛入门：Titanic 生存预测
+- 开源项目贡献指南：如何参与 AI 开源社区
+
+## 联系我们
+
+- 评论区：giscus（GitHub 讨论）
+- GitHub：https://github.com/aijvs/aijvs-blog
