@@ -100,6 +100,18 @@ searchdb:
 sitemap:
   path: sitemap.xml
 
+# RSS Feed
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+  content_limit: 400
+  content_limit_delim: ' '
+  order_by: -date
+  icon: https://aijvs.com/favicon.ico
+
 # Baidu Sitemap（已移除，如需请重新安装 hexo-generator-baidu-sitemap）
 # baidusitemap:
 #   path: baidusitemap.xml
