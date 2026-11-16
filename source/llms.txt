@@ -6,12 +6,14 @@ AIJVS 是一个面向中文用户的 AI 应用指南网站。我们提供：AI �
 
 ## 核心内容
 
-- [AI 双周速递（前沿 AI 动态速览）](https://aijvs.com/tags/AI速递/)
+- [AI 双周速递（前沿 AI 动态速览，每两周一期）](https://aijvs.com/tags/AI速递/)
+- [AI 应用实战（把 AI 真正用起来的教程）](https://aijvs.com/2026/11/16/别再找最强模型：三层模型路由实战/)
+- [如何用 AI 编程：从需求到上线的完整工作流](https://aijvs.com/2026/08/15/如何用AI编程：从需求到上线的完整工作流-2026实战指南/)
 - [AI 工具评测（TRAE / 通义灵码 / CodeGeeX / Cursor 对比等）](https://aijvs.com/tags/评测/)
-- [国产大模型横评（DeepSeek / Kimi / Qwen / GLM）](https://aijvs.com/2026/08/06/国产大模型横评：DeepSeek Kimi Qwen GLM 谁更值得用？/)
+- [国产大模型横评（DeepSeek / Kimi / Qwen / GLM）](https://aijvs.com/2026/08/06/国产大模型横评：DeepSeek%20Kimi%20Qwen%20GLM%20谁更值得用？/)
 - [深度学习系统课程（从 Python 基础到 Transformer）](https://aijvs.com/course/)
 - [WebGPU 实战：在浏览器里跑大模型](https://aijvs.com/2026/08/06/WebGPU实战：在浏览器里跑大模型（零成本本地推理）/)
-- [AI 编程助手横评 2026](https://aijvs.com/2026/08/12/中文 AI 编程助手横评：TRAE 通义灵码 CodeGeeX Cursor 该选哪个？/)
+- [AI 编程助手横评 2026](https://aijvs.com/2026/08/12/中文%20AI%20编程助手横评：TRAE%20通义灵码%20CodeGeeX%20Cursor%20该选哪个？/)
 
 ## 关键页面
 
@@ -23,9 +25,16 @@ AIJVS 是一个面向中文用户的 AI 应用指南网站。我们提供：AI �
 ## 内容索引
 
 ### 前沿追踪
+- AI 双周速递·第五期：Gemini 4 三连发，Kimi K3.1 Pro 2.8 万亿参数开源（2026-11-16）
+- AI 双周速递·第四期：GPT-6 Astra 登场，英伟达 130 亿美元收购 Hugging Face（2026-09-28）
+- AI 双周速递·第三期：DeepSeek V4 Pro 正式版登场，API 涨价 350%（2026-08-15）
 - AI 双周速递·第二期：Qwen3.8-Max 开源炸场，字节 SeedRealtime 边看边聊（2026-08-12）
 - AI 双周速递·创刊号：Kimi K3 登顶全球开源王座（2026-08-06）
 - 顶会论文解读：ICML 2026 三大趋势与港大 CaRE 持续学习（2026-08-06）
+
+### AI 应用实战
+- 别再找最强模型：三层模型路由实战（2026-11-16）——规划层/执行层/校验层分工、真实价格对照、路由代码与成本核算
+- 如何用 AI 编程：从需求到上线的完整工作流（2026-08-15）——5 个提示词模板 + AI 个人日志系统
 
 ### 工具评测
 - 中文 AI 编程助手横评：TRAE / 通义灵码 / CodeGeeX / Cursor 该选哪个？（2026-08-12）
